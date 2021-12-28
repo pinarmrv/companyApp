@@ -1,6 +1,6 @@
 A simple react application.
 
-It allows to load a list of company names, after selection that companes marked as positive or negative in UI.
+It allows to load a list of company names, after selection the companies are marked as positive or negative in UI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
